@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+abokienv/
+.vscode/
 
 # C extensions
 *.so
